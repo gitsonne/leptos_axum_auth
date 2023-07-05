@@ -2,10 +2,10 @@
 
 This is a sample test application for me to learn Leptos and Rust
 The goal is to develop a very easy Stack base that can be deployed anywhere with Containers
-1 Leptos
-2 Axum
-3 Postgres
-4 Mabey some Auth service like supertokens?
+- Leptos
+- Axum
+- Postgres
+- Mabey some Auth service like supertokens?
 
 The goal is to have it as simple as:
 `docker compose up`
